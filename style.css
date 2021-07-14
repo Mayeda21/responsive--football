@@ -11,7 +11,7 @@
     padding-top: 207px;
 }
 header{
-    width: 1440px;
+   
 height: 677px;
 left: 0px;
 top: 0px;
@@ -56,7 +56,7 @@ height: 256px;
 padding: 15px;
  }
  .players{
-     padding-left: 180px;
+     padding-left: 60px;
      padding-top: 70px;
      display: grid;
      grid-template-columns: 330px;
@@ -79,7 +79,7 @@ margin-right: 15px;
  .highlights-items{
      display: flex;
      align-items: center;
-     padding-left: 156px;
+     padding-left: 60px;
     
 }
 
@@ -95,6 +95,9 @@ margin-right: 15px;
 }
 .left-item{
     margin-top: 224px;
+    width: 400px;
+    height: 400px;
+    
     
 }
 
@@ -109,8 +112,9 @@ font-family: 'Poppins', sans-serif;
 .highlight-banner img{
     margin-top: 165px;
     margin-left: 90px;
-    width: 567px;
-height: 427px;
+width: 400px;
+height: 400px;
+margin-right: 60px;
 }
 .paragraph{
     font-size: 16px;
@@ -139,18 +143,19 @@ button a{
 
 /* transition */
 .celebration{
-    margin-left: 182px;
+   margin-left: 60px;
     margin-top: 40px;
 }
 .wrapper{
-    width: 1170px;
-    margin:10% auto;
+    width: 1100px;
+  
     display: flex;
     flex-direction:row;  
 }
 .celebration-title{
     font-family: 'Poppins', sans-serif;
  font-size: 48px;
+ margin-bottom:20px ;
 
 }
 .box{
@@ -186,13 +191,12 @@ button a{
 footer{
    
     margin-top: 100px;
-   width: 1440px;
     height:300px;
 }
 .foot{
     width: 483px;
 
-margin-left: 475px;
+margin-left: 300px;
 }
 .brand-logo img{
     width:483px ;
