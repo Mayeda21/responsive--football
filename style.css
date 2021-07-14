@@ -70,7 +70,7 @@ height: 474px;
 background-color: white;
 border: 1px solid white;
 box-shadow: 0 0 10px grey;
-margin-right: 30px;
+margin-right: 15px;
  }
  /* ******************highlight imformation*********** */
  .Highlights{
@@ -160,6 +160,7 @@ margin-left:50px;
 }
 .footer-icon{   
  text-align: center;
+ transform: scale();
 
  
 height: 32px;
@@ -168,11 +169,13 @@ height: 32px;
     color: #0B0D17, 100%;
     margin-right: 8px;
     padding: 6px 6px 6px 6px;
-  
    background-color: #969BAB;
    opacity: 0.5;
 font-size: 23px;
 border-radius: 25px;
+}
+.fab:hover{
+    font-size: 46px;
 }
 .copy-right{
     margin-top: 40px;
