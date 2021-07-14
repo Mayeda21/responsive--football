@@ -142,10 +142,42 @@ footer{
    width: 1440px;
     height:300px;
 }
+.foot{
+    width: 483px;
+
+margin-left: 475px;
+}
 .brand-logo img{
     width:483px ;
     height:110px;
-    margin-left: 475px;
+    
+}
+.icons{
+margin-left:50px;
+
+
+}
+.footer-icon{   
+ text-align: center;
+
+ 
+height: 32px;
+}
+.fab{
+    color: #0B0D17, 100%;
+    margin-right: 8px;
+    padding: 6px 6px 6px 6px;
+  
+   background-color: #969BAB;
+   opacity: 0.5;
+font-size: 23px;
+border-radius: 25px;
+}
+p{
+    margin-top: 40px;
+    font-size: 18px;
+    margin-left: 160px;
+
 }
 
 
