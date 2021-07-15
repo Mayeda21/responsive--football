@@ -217,72 +217,23 @@ border-radius: 25px;
 
 }
 /* responsive for mobile */
-@media only screen and (max-width:688px)
-{
-     .header{
-margin-bottom: 50px;
-        width:150% auto;
-    } 
-    .banner-left{
-        width: 100%;
-    }
-.banner-items{
-    display: flex;
-    flex-direction: column;
+@media olny screen and (max-width:688px)
+{ 
+    .banner-items{
+    width:100%;
+    padding-left:100px;
     
-}
-.banner img{
-
-}
-.players{
- display: grid;
-grid-template-columns: repeat(1,1fr);
-align-content: center;
 }
 .container{
-    width:100%;
-  margin-right:-10px;
-    
+    margin-right:5px;
 }
-.Highlights{
-    display: flex;
-    flex-direction: column;
-    align-content: center;
-}
-.highlight-banner{
-    width: 100%;
-    padding-left: 24%;
-   
-}
-.wrapper{
+ 
+.players{
     display: grid;
     grid-template-columns: repeat(1,1fr);
     align-content: center;
-    grid-row-gap:10px ;
 }
- .brand-logo img {
-    width: 100%;
-    padding-left: 30px;
     
-} 
-.foot{
-    margin-left: 0;
-    width: 241px;
-    height: ;
-    padding-left: 100px;
-}
-.copy-right{
-    width: 100%;
-    margin-left:70px;
-}
-.footer-icon{
-    font-size: 16px;
-}
-.icons{
-    width: 250px;
-    margin-left: 30px;
-}
-
 }
 
 
